@@ -2,6 +2,8 @@
 
 > A high-performance asynchronous API Gateway for interacting with the Ethereum blockchain using FastAPI.
 
+
+  
 ![Python](https://img.shields.io/badge/Python-3.12+-blue?style=for-the-badge&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Modern-green?style=for-the-badge&logo=fastapi)
 ![Ethereum](https://img.shields.io/badge/Ethereum-Web3-black?style=for-the-badge&logo=ethereum)
